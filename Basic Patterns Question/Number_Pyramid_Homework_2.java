@@ -1,3 +1,11 @@
+// Expected Output
+
+// 1 
+// 2 2 
+// 3 3 3 
+// 4 4 4 4 
+// 5 5 5 5 5 
+
 public class Number_Pyramid_Homework_2 
 {
     public static void main(String[] args) 

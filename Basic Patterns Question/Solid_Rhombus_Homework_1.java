@@ -1,3 +1,16 @@
+// Expected Output
+
+// * * * * * 
+// * * * * * 
+// * * * * * 
+// * * * * * 
+// * * * * * 
+// * * * * * 
+
+//Logic
+
+
+
 public class Solid_Rhombus_Homework_1 
 {
     public static void main(String[] args) 

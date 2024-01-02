@@ -1,3 +1,11 @@
+// Expected Output
+
+// 1 
+// 0 1 
+// 1 0 1 
+// 0 1 0 1 
+// 1 0 1 0 1 
+
 public class Zero_One_Triangle_9
 {
     public static void main(String[] args) 

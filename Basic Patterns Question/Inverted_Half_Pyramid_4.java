@@ -1,3 +1,10 @@
+// Expected Output
+
+// * * * * 
+// * * * 
+// * * 
+// * 
+
 public class Inverted_Half_Pyramid_4 
 {
     public static void main(String[] args) 

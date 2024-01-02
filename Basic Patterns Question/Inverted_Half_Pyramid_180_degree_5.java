@@ -1,3 +1,10 @@
+// Expected Output
+
+// *
+// **
+// ***
+// ****
+
 public class Inverted_Half_Pyramid_180_degree_5
 {
     public static void main(String[] args) 

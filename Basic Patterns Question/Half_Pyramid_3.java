@@ -1,3 +1,10 @@
+// Expected Output
+
+// * 
+// * * 
+// * * * 
+// * * * * 
+
 public class Half_Pyramid_3 
 {
     public static void main(String[] args) 

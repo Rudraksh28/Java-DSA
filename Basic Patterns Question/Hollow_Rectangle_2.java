@@ -1,3 +1,10 @@
+// Expected Output
+
+// *****
+// *   *
+// *   *
+// *****
+
 public class Hollow_Rectangle_2 
 {
     public static void main(String[] args) 

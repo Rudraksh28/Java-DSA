@@ -1,3 +1,16 @@
+// Expected Output
+
+// * * * * * 
+// * * * * * 
+// * * * * * 
+// * * * * * 
+
+// Logic 
+// let i be a row. 
+// There are 4 row
+
+// And j be a column
+// There are 5 columns
 public class Solid_Rectangle_1
 {
     public static void main(String[] args) 
